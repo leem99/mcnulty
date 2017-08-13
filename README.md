@@ -1,4 +1,4 @@
-# mcnulty
+# predicting_mlb_from_milb
 This repo contains scripts that were used to:
 
 1. Scrape minor league batter files from baseball reference (scrape_minor_leaguers.ipynb)
